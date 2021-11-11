@@ -1,0 +1,7 @@
+{
+    "name": "somecommoner/qbitwrapper",
+    "description": "Interface with qBittorrents API.",
+    "require": {
+        "php": ">=7.4"
+    }
+}
